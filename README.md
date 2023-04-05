@@ -1,1 +1,1 @@
-https://krystianklimczak.github.io/goit-markup-hw-05/
+https://krystianklimczak.github.io/goit-markup-hw-06/
