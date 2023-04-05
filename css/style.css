@@ -202,6 +202,7 @@ button {
 /* FOOTER SOCIAL */
 .footer-social {
     padding-top: 12px;
+    height: fit-content;
     /* padding-bottom: 100px; */
     /* margin-left: 70px; */
 }
@@ -237,6 +238,8 @@ button {
 
 .footer-form {
     padding-top: 12px;
+    padding-left: 8px;
+    height: fit-content;
 }
 .footer-form > p {
     font-weight: 700;
