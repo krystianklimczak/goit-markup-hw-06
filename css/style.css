@@ -235,6 +235,9 @@ button {
     background-color: var(--color-hover);
 }
 
+.footer-form {
+    padding-top: 12px;
+}
 .footer-form > p {
     font-weight: 700;
     font-size: 14px;
