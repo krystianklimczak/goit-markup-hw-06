@@ -665,7 +665,7 @@ button {
 }
 
 /* MODAL FORM */
-.modal-form > p {
+.modal > p {
     font-weight: 700;
     font-size: 20px;
     line-height: 1.15;
