@@ -249,7 +249,7 @@ button {
 }
 .footer-form form {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
     flex-wrap: wrap;
     gap: 12px;
