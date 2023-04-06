@@ -649,8 +649,7 @@ button {
     box-shadow: var(--color-background-modal);
     border-radius: 4px;
     transition: transform 1250ms;
-    transform: scale(1) rotateX(360deg) rotateY(-360deg) rotateZ(360deg) translateX(0px)
-        translateY(0px) translateZ(0px) skewX(0deg) skewY(0deg);
+    transform: scale(1);
     cursor: auto;
     padding: 40px;
 }
@@ -754,6 +753,7 @@ button {
     justify-content: center;
     align-items: center;
     gap: 7px;
+    cursor: pointer;
 }
 .modal-form-checkbox a {
     color: var(--color-hover);
@@ -772,6 +772,7 @@ button {
     position: relative;
     z-index: 1;
     background-color: var(--color-text-main-light);
+    cursor: pointer;
 }
 .modal-form-checkbox svg {
     fill: var(--color-hover);
