@@ -665,12 +665,6 @@ button {
 }
 
 /* MODAL FORM */
-.modal > p {
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 1.15;
-    text-align: center;
-    letter-spacing: 0.03em;
-    color: var(--color-text-main);
-    padding-top: 40px;
+.modal-form {
+padding: 40px;
 }
