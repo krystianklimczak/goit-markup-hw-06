@@ -792,7 +792,7 @@ button {
 /* .modal-form-checkbox input:is(:hover) svg {
     transform: translateX(0);
 } */
-.modal-form-checkbox div {
+.modal-form-checkbox span {
     position: relative;
     display: flex;
     /* overflow: hidden; */
